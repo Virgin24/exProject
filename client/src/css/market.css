@@ -1,0 +1,43 @@
+/* *{
+    box-sizing: border-box;
+    
+} */
+
+.container h2 {
+    margin-top: 5rem;
+    margin-left: 10rem ;
+}
+
+table {
+    border-collapse: collapse;
+    width: 72%;
+    margin: 2% auto;    
+  }
+
+  table h3{
+    position: relative;
+    /* margin-top: 1rem; */
+    left: 220%;
+    font-size: 25px;
+
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #DDD;
+  }
+  
+  tr:hover {background-color: #D6EEEE;}
+
+  a{
+    text-decoration: none;
+  }
+
+ tr button{
+    background-color:limegreen;
+    border-radius: 17px;
+    padding: 6px;
+    /* width: 5rem; */
+    font-size: 15px;
+  }
